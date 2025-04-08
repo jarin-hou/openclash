@@ -1,0 +1,8 @@
+# 内容：购物网站
+# 域名关键字匹配
+# DOMAIN-KEYWORD,rei
+# DOMAIN-KEYWORD,arcteryx
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,rei.com
+DOMAIN-SUFFIX,arcteryx.com
